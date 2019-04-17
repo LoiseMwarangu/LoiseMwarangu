@@ -155,10 +155,12 @@ cite {
   height: auto;
   color: white;
 }
+.portfolio{
+  padding-bottom: 100px;
 
+}
 .portfolio-items .section-heading {
   font-weight: 100;
-  color: #fff;
   margin-bottom: 60px;
 }
 
