@@ -133,7 +133,7 @@ cite {
 
 /*** Portfolio ***/
 
-#portfolio {
+#contact {
   padding-top: 30px;
   padding-bottom: 30px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(https://images.wallpaperscraft.com/image/black_background_red_color_paint_explosion_burst_9844_1920x1080.jpg);
@@ -142,6 +142,18 @@ cite {
   background-position: center; 
   background-size: cover;
   height: auto;
+  color: white;
+}
+.skills{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(https://images.wallpaperscraft.com/image/black_background_red_color_paint_explosion_burst_9844_1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+  height: auto;
+  color: white;
 }
 
 .portfolio-items .section-heading {
